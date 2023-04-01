@@ -1,0 +1,29 @@
+reMarkable - pregatire bac
+Document Edit View Account Help
+reMarkable
+pb atribuitii generalizate
+fie i = {1,...,m} o multime de agenti si fie y = {1,...,n} o mult de joburi/taskuri/proiecte.
+
+sau
+
+Pt fiecare pereche (i,j) sunt cunoscute urmatoarele caracteristici numerice etc.
+
+~~~~~~~~~~~~~~~~
+
+b) r(ij) = resursele de care are nevoie agentul 'i' pt a efectua task-ul 'j'
+
+c) bj = resursele pe care le are (de care dispune) agentul i
+
+x(ij) apartine {0,1} - reprezinta daca agentului "i" i se asigneaza taskul "j"
+
+
+
+
+
+
+
+
+
+
+
+
